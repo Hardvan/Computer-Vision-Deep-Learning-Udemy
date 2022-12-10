@@ -1,3 +1,3 @@
 # Computer Vision + Deep Learning
 
-My files for the udemy course.
+My files for the Udemy course by Jose Portilla.
